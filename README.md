@@ -10,15 +10,13 @@ In this paper we try to use the differential equations of mathematics in order t
 ![img](Results/Screenshot%20(29).png)
 ---
 
-```
 
-For more details check our full paper [here](https://drive.google.com/file/d/1fOsIzzBFBDEs2GQkMw8pM88q8nGi3cWA/view?usp=sharing)
+### For more details check our full paper [here](https://drive.google.com/file/d/1fOsIzzBFBDEs2GQkMw8pM88q8nGi3cWA/view?usp=sharing)
 
 </br>
 
-You can also check pou presentation [here](https://drive.google.com/file/d/1FAYYun0lqmWBl0izR9DIyFmKeFEuHh_k/view?usp=sharing)
+### You can also check pou presentation [here](https://drive.google.com/file/d/1FAYYun0lqmWBl0izR9DIyFmKeFEuHh_k/view?usp=sharing)
 
-```
 
 ---
 
